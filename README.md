@@ -2,6 +2,11 @@
 
 无人机外立面清洗企业官网，纯静态站点（HTML / CSS / JS），无需构建、无需依赖，可直接部署到任意静态托管平台或服务器。
 
+## 线上地址
+
+- GitHub 仓库：https://github.com/gcy20035678/tongxing-tech
+- 网站首页：https://gcy20035678.github.io/tongxing-tech/
+
 ## 技术栈
 
 - 原生 HTML5 + CSS3 + JavaScript（无框架、无构建工具）
