@@ -64,7 +64,7 @@ sudo systemctl reload nginx
 
 4. 域名解析到服务器 IP，并按需申请 HTTPS 证书（如使用 `certbot`）。
 
-> 国内服务器需先完成 **ICP 备案**，请将页脚 `浙ICP备00000000号` 替换为真实备案号。
+> 国内服务器需先完成 **ICP 备案**，备案通过后可在页脚 `footer-bottom` 中补充备案号。
 
 ### 方式二：Docker 容器
 
@@ -86,8 +86,7 @@ docker run -d -p 80:80 --name tongxing tongxing-website
 
 上线前请替换以下占位信息（全局搜索关键词即可定位）：
 
-- [ ] ICP 备案号 `浙ICP备00000000号`
-- [ ] `sitemap.xml` / `robots.txt` 中的域名 `www.tongxing-tech.com`
+- [ ] `sitemap.xml` / `robots.txt` 中的域名（当前为 GitHub Pages 地址，绑定自有域名后需替换）
 
 > 电话（18989390904，手机微信同号）、邮箱（1751157014@qq.com）、地址（浙江省宁波市鄞州区恒创上谷b527室）已配置完成。
 - [ ] 案例等示例文案
