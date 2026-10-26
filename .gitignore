@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+desktop.ini
+# 本地预览/调试文件
+_preview*.html
+_imgtest*.html
