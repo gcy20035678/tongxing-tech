@@ -5,7 +5,8 @@
 ## 线上地址
 
 - GitHub 仓库：https://github.com/gcy20035678/tongxing-tech
-- 网站首页：https://gcy20035678.github.io/tongxing-tech/
+- 官网域名：https://nbtongxing.com/
+- 网站首页（备用）：https://gcy20035678.github.io/tongxing-tech/
 
 ## 技术栈
 

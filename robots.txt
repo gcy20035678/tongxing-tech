@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gcy20035678.github.io/tongxing-tech/sitemap.xml
+Sitemap: https://nbtongxing.com/sitemap.xml
